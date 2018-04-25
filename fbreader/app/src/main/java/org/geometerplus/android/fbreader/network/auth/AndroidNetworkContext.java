@@ -60,7 +60,7 @@ public abstract class AndroidNetworkContext extends ZLNetworkContext {
 				.putString("claim-token-url", url(uri, params, "auth-url-web-claim-token"))
 				.commit();
 			String authUrl = url(uri, params, "auth-url-web-token");
-			authUrl = authUrl.replace("@key@", BuildConfig.FBNETWORK_KEY);
+//			authUrl = authUrl.replace("@key@", BuildConfig.FBNETWORK_KEY);
 			authUrl = authUrl.replace("@salt@", salt);
 			authUri = Uri.parse(authUrl);
 		} catch (Throwable t) {

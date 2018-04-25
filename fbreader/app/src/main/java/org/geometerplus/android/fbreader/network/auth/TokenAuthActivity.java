@@ -75,7 +75,7 @@ public class TokenAuthActivity extends Activity {
 			final MessageDigest hash = MessageDigest.getInstance("SHA-1");
 			final String salt = prefs.getString("salt", null);
 			hash.update(salt.getBytes("utf-8"));
-			hash.update(BuildConfig.FBNETWORK_SECRET.getBytes("utf-8"));
+//			hash.update(BuildConfig.FBNETWORK_SECRET.getBytes("utf-8"));
 			hash.update(token.getBytes("utf-8"));
 			final Formatter f = new Formatter();
 			for (byte b : hash.digest()) {

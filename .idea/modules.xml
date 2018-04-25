@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/third-party/AmbilWarna/AmbilWarna.iml" filepath="$PROJECT_DIR$/third-party/AmbilWarna/AmbilWarna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FBReader-Android-2.iml" filepath="$PROJECT_DIR$/FBReader-Android-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/SuperToasts/SuperToasts.iml" filepath="$PROJECT_DIR$/third-party/SuperToasts/SuperToasts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/android-filechooser/android-filechooser.iml" filepath="$PROJECT_DIR$/third-party/android-filechooser/android-filechooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreader/api/api.iml" filepath="$PROJECT_DIR$/fbreader/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreader/app/app.iml" filepath="$PROJECT_DIR$/fbreader/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreader/common/common.iml" filepath="$PROJECT_DIR$/fbreader/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/drag-sort-listview/drag-sort-listview.iml" filepath="$PROJECT_DIR$/third-party/drag-sort-listview/drag-sort-listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreader/fbreader.iml" filepath="$PROJECT_DIR$/fbreader/fbreader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreader/resources/resources.iml" filepath="$PROJECT_DIR$/fbreader/resources/resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreader/text-formats/text-formats.iml" filepath="$PROJECT_DIR$/fbreader/text-formats/text-formats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/third-party.iml" filepath="$PROJECT_DIR$/third-party/third-party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreader/util/util.iml" filepath="$PROJECT_DIR$/fbreader/util/util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreader/zip-amse/zip-amse.iml" filepath="$PROJECT_DIR$/fbreader/zip-amse/zip-amse.iml" />
+    </modules>
+  </component>
+</project>

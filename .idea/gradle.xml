@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/fbreader" />
+            <option value="$PROJECT_DIR$/fbreader/api" />
+            <option value="$PROJECT_DIR$/fbreader/app" />
+            <option value="$PROJECT_DIR$/fbreader/common" />
+            <option value="$PROJECT_DIR$/fbreader/resources" />
+            <option value="$PROJECT_DIR$/fbreader/text-formats" />
+            <option value="$PROJECT_DIR$/fbreader/util" />
+            <option value="$PROJECT_DIR$/fbreader/zip-amse" />
+            <option value="$PROJECT_DIR$/third-party" />
+            <option value="$PROJECT_DIR$/third-party/AmbilWarna" />
+            <option value="$PROJECT_DIR$/third-party/SuperToasts" />
+            <option value="$PROJECT_DIR$/third-party/android-filechooser" />
+            <option value="$PROJECT_DIR$/third-party/drag-sort-listview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
